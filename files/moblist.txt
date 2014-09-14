@@ -1,0 +1,171 @@
+
+* = archers/ throwers, they are implemented but have the disability to attack other mobs, therefore...
+(for good mobs); serve as deco
+(for evil mobs); serve as a player attacker but not other npc attacker. Fine.
+Stuff that are cancel (like this) = stuff that need new models
+# = empty hand, need new model
+
+Skins: (Just a basic face and clothes; armor and such will be added using textures from the armors)
+3 Troll Skins fishyWET Done 3
+3 Spider Skins fishyWET Done 3
+5 Dunlending Skins Amaz Done 3
+5 Orc Skins Done fishyWET Done 3
+4 Uruk Hai Skins fishyWET Done 3
+4 Mirk Elves Skins
+5 Lorien Elves Skins Amaz Done 3
+3 Ent Skins
+5 Dwarven Skins Amaz Done 3
+5 Gondorian Skins Amaz Done 3
+2 Ithilien Skins Amaz Done
+5 Hobbit Skins Amaz Done 3
+6 Rohirrim Skins Amaz Done 3
+
+FORMAT:
+NAME
+Health (H, M, L), Attack (H, M, L)(Only for Non-Animals), Speed (F, M, S)
+e.g [For Non-Animals] H, L, M = High Health, Low Attack, Medium Speed
+e.g [For Animals] H, F = High Health, Fast Speed
+H = High
+M = Medium
+L = Low
+F = Fast
+S = Slow
+
+Animals: (Peaceful)
+Horse
+L, F
+Chicken
+L, M
+Sheep
+L, S
+Cow
+L, S
+Monsters: (Attack npc)
+Spider Types
+Small Spiders (Spawnling)
+L, L, F
+Medium Spiders (Spiders)
+M, M, M
+Large Spiders (Spider Mother) (Spits venom) *
+M, H, S
+Dead Men
+H, L, L
+Evil: (Attack npc)
+Troll Types
+Normal Troll
+M, M, S
+Battle Troll
+H, M, S
+Boulder Trolls (Throw stones) *
+M, H, S
+Dunland Types
+Normal Dunlending (Unarmed)
+L, L, F
+Normal Axe Dunlending
+L, L, F
+Stone Sword Dunlending
+L, M, F
+Dunland Soldier (Armored with axe)
+M, M, M
+Dunland Chieftain
+H, M, S
+Nazgul (without explosive) *
+[BOSS]
+H, H, S
+Orc Types
+Orc Worker (Armed with dagger)
+L, L, F
+Orc Archer *
+L, L, F
+Orc Swordmen
+M, M, M
+Orc battleaxeman
+M, M, M
+Warg Rider
+M, H, F
+Orc Warlock
+H, M, S
+Uruk Hai Types
+Uruk Hai Woodcutter
+L, L, F
+Uruk Hai Pikeman
+M, M, M
+Uruk Hai Crossbowman *
+L, H, M
+Uruk Hai Soldier (with armor & battleaxe)
+H, M, M
+Npc: (Peaceful until provoked)
+Elf Types
+Normal Elf (Unarmed) (Both)
+L, L, F
+Elven Scout (Dagger) (Mirk)
+L, L, F
+Elven Archer * # (Lorien)
+L, M, F
+Elven Archer * # (Mirk)
+L, M, F
+Elven Warrior # (Lorien)
+M, M, M
+Elven Spearman # (Lorien)
+M, M, M
+Elven Rangers * # (Mirk)
+L, H, F
+Elven Enchanter (Potion thrower) * # (Lorien)
+L, H, M
+Galadhrim Warriors (Lorien)
+H, M, S
+Ent Types
+Normal Ent
+H, M, S
+Random Ent 1 (Different Skin)
+H, M, S
+Random Ent 2
+H, M, S
+Dwarf Types
+Dwarven Miner (Armed with pick) #
+M, L, M
+Dwarven Soldier (Armed with axe) #
+M, M, M
+Dwarven Berserker (Armed with battleaxe) #
+L, H, F
+Dwarven Axethrower * #
+L, H, M
+Dwarven Guardian (Armed with battleaxe) #
+M, H, S
+Gondor Types
+Peasant
+L, L, F
+Ithilien Rangers (spawn in Ithilien only) * #
+L, M, F
+Gondor Soldier
+M, M, M
+Gondor Crossbowmen *
+L, H, M
+Gondor Guards
+M, H, M
+Gondor Knights
+H, M, F
+Hobbit Types
+Normal Hobbit
+L, L, F
+Random Hobbit 2
+L, L, F
+Random Hobbit 3
+L, L, F
+Hobbit Shirriff #
+M, L, F
+Rohan Types
+Rohirrim Peasant
+L, L, F
+Rohirrim Archer *
+L, M, F
+Rohirrim Soldier (Spearman)
+M, M, M
+Rohirrim Elite Spearman
+M, M, M
+Rohirrim Horse Archer
+M, M, F
+Rohirrim Rider
+M, H, F
+Rohirrim Guards
+H, M, M
