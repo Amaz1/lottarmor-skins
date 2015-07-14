@@ -1,0 +1,223 @@
+Do anything that has a bullet;
+For helmet, refer to this as a reference; https://github.com/Amaz1/Lord-of-the-Test/blob/master/mods/lottarmor/textures/lottarmor_helmet_wood.png
+For chestplate, refer to this as a reference; https://github.com/Amaz1/Lord-of-the-Test/blob/master/mods/lottarmor/textures/lottarmor_chestplate_wood.png
+For leggings, refer to this as a reference; https://github.com/Amaz1/Lord-of-the-Test/blob/master/mods/lottarmor/textures/lottarmor_leggings_wood.png
+For boots, refer to this as a reference; https://githob.com/Amaz1/Lord-of-the-Test/blob/master/mods/lottarmor/textures/lottarmor_boots_wood.png
+Put a "Done! [insert_name_here]" in front of the name when you are done with the texture of that armor, name the armor according to the name (e.g. for orcish leather helmet, name it as lottarmor_orcish_leather_helmet.png) Add "Working [Name]" if you are working on it.
+
+ORCS: Done!
+---------------------------------------------
+orcish scout
+orcish footsoldier
+orcish chieftain
+orcish warlock
+---------------------------------------------
+
+DWARVEN: Done!
+---------------------------------------------
+dwarven forger
+dwarven blacksmith
+dwarven guard
+dwarven miner
+---------------------------------------------
+
+urukhai - all ok
+
+Gondarian Light Chainmail Armor > Gondorian Soldier
+Gondarian Heavy Chainmail Armor > Condorian CityGuard
+
+
+Rohirrim Light Chainmail Armor > Rohirrim recruit
+Rohirrim Heavy Chainmail Armor > Rohirrim guard
+
+Hobbit Chainmail Armor > Hobbit smith
+
+
+Lightly Chainmail Lorien Armor > Lorien Archer
+Chainmail Mirkwood Armor > Mirkwood Archer
+Heavy Chainmail Lorien Armor > Lorien lieutenant
+
+
+Uruk Hai:
+[pickup Flipsels]Uruk Hai Woodcutter Armor
+
+    Uruk Hai Woodcutter Helmet
+
+    Uruk Hai Woodcutter Chestplate
+
+    Uruk Hai Woodcutter Leggings
+
+    Uruk Hai Woodcutter Boots
+
+[pickup Flipsels]Uruk Hai Crossbower Armor
+
+    Uruk Hai Crossbower Helmet
+
+    Uruk Hai Crossbower Chestplate
+
+    Uruk Hai Crossbower Leggings
+
+    Uruk Hai Crossbower Boots
+
+[pickup Flipsels]Uruk Hai Soldier Armor
+
+    Uruk Hai Soldier Helmet
+
+    Uruk Hai Soldier Chestplate
+
+    Uruk Hai Soldier Leggings
+
+    Uruk Hai Soldier Boots
+
+Gondorian:
+[Working: Gabo]Gondarian Crossbower Armor
+
+    Gondarian Crossbower Helmet
+
+    Gondarian Crossbower Chestplate
+
+    Gondarian Crossbower Leggings
+
+    Gondarian Crossbower Boots
+
+[Re-Working: Gabo]Gondarian Light Chainmail Armor
+
+    [Done! Amaz]Gondarian Light Chainmail Helmet
+
+    [Done! Amaz]Gondarian Light Chainmail Chestplate
+
+    [Done! Amaz]Gondarian Light Chainmail Leggings
+
+    [Done! Amaz]Gondarian Light Chainmail Boots
+
+[Working: Gabo]Gondarian Heavy Chainmail Armor
+
+    Gondarian Heavy Chainmail Helmet
+
+    Gondarian Heavy Chainmail Chestplate
+
+    Gondarian Heavy Chainmail Leggings
+
+    Gondarian Heavy Chainmail Boots
+
+[Working: Gabo]Gondarian Knight Armor
+
+    Gondarian Knight Helmet
+
+    Gondarian Knight Chestplate
+
+    Gondarian Knight Leggings
+
+    Gondarian Knight Boots
+
+Rohirrim:
+Rohirrim Archer Armor
+
+    [Done! Amaz]Rohirrim Archer Helmet
+
+    [Done! Amaz]Rohirrim Archer Chestplate
+
+    [Done! Amaz]Rohirrim Archer Leggings
+
+    [Done! Amaz]Rohirrim Archer Boots
+
+Rohirrim Light Chainmail Armor
+
+    Rohirrim Light Chainmail Helmet
+
+    Rohirrim Light Chainmail Chestplate
+
+    Rohirrim Light Chainmail Leggings
+
+    Rohirrim Light Chainmail Boots
+
+Rohirrim Heavy Chainmail Armor
+
+    Rohirrim Heavy Chainmail Helmet
+
+    Rohirrim Heavy Chainmail Chestplate
+
+    Rohirrim Heavy Chainmail Leggings
+
+    Rohirrim Heavy Chainmail Boots
+
+Rohirrim Horserider armor
+
+    [Done! Amaz]Rohirrim Horserider Helmet
+
+    [Done! Amaz]Rohirrim Horserider Chestplate
+
+    [Done! Amaz]Rohirrim Horserider Leggings
+
+    [Done! Amaz]Rohirrim Horserider Boots
+
+[Working; fishyWET] Elven:
+[Working; fishyWET] Mirkwood Scout Armor
+
+    Mirkwood Scout Helmet
+
+    Mirkwood Scout Chestplate
+
+    Mirkwood Scout Leggings
+
+    Mirkwood Scout Boots
+
+[Working; fishyWET] Lorien Scout Armor
+
+    Lorien Scout Helmet
+
+    Lorien Scout Chestplate
+
+    Lorien Scout Leggings
+
+    Lorien Scout Boots
+
+[Working; fishyWET] Mirkwood Ranger Armor
+
+    Mirkwood Ranger Helmet
+
+    Mirkwood Ranger Chestplate
+
+    Mirkwood Ranger Leggings
+
+    Mirkwood Ranger Boots
+
+[Working; fishyWET] Lightly Chainmail Lorien Armor
+
+    Lightly Chainmail Lorien Helmet
+
+    Lightly Chainmail Lorien Chestplate
+
+    Lightly Chainmail Lorien Leggings
+
+    Lightly Chainmail Lorien Boots
+
+[Working; fishyWET] Chainmail Mirkwood Armor (Medium)
+
+    Chainmail Mirkwood Helmet
+
+    Chainmail Mirkwood Chestplate
+
+    Chainmail Mirkwood Leggings
+
+    Chainmail Mirkwood Boots
+
+[Working; fishyWET] Heavy Chainmail Lorien Armor
+
+    Heavy Chainmail Lorien Helmet
+
+    Heavy Chainmail Lorien Chestplate
+
+    Heavy Chainmail Lorien Leggings
+
+    Heavy Chainmail Lorien Boots
+
+[Working; fishyWET] Elven Galadhrim Armor
+
+    Elven Galadhrim Helmet
+
+    Elven Galadhrim Chestplate
+
+    Elven Galadhrim Leggings
+
+    Elven Galadhrim Boots
